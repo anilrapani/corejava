@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package objects_n_classes;
+package objects_n_classes_1;
 
 /**
  *

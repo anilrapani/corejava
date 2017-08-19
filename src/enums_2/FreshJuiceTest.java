@@ -14,6 +14,6 @@ class FreshJuiceTest{
     public static void main(String[] args) {
         FreshJuice juice = new FreshJuice();
         juice.size = FreshJuice.FreshJuiceSize.LARGE;
-        System.out.println("juice selected : " +juice.size);
+        System.out.println("juice selected : " +FreshJuice.FreshJuiceSize.LARGE);
     }
 }
